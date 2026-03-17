@@ -24,5 +24,5 @@ I maintain a home lab to experiment with infrastructure and DevOps workflows inc
 
 ## 📫 Connect with Me
 
-LinkedIn: https://linkedin.com/in/yourprofile  
+LinkedIn: https://www.linkedin.com/in/litonmazumder/ 
 Email: liton.mazumder@outlook.com
