@@ -1,16 +1,28 @@
-## Hi there 👋
+# Hi, I'm Liton Mazumder 👋
 
-<!--
-**litonmazumder/litonmazumder** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+DevOps & Infrastructure Engineer with 7+ years of experience managing Linux-based systems, CI/CD pipelines, containerized workloads, and internal infrastructure platforms.
 
-Here are some ideas to get you started:
+## 🚀 Core Technologies
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Linux
+- Docker & Docker Compose
+- Proxmox Virtualization
+- GitLab CI/CD & GitHub Actions
+- Nginx Reverse Proxy
+- Prometheus & Grafana Monitoring
+- Laravel / MySQL
+
+## 🧪 DevOps Lab Environment
+
+I maintain a home lab to experiment with infrastructure and DevOps workflows including:
+
+- Containerized applications
+- CI/CD pipelines
+- Reverse proxy & SSL
+- Monitoring stacks
+- Infrastructure automation
+
+## 📫 Connect with Me
+
+LinkedIn: https://linkedin.com/in/yourprofile  
+Email: your@email.com
