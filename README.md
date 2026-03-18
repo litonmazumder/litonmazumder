@@ -26,6 +26,12 @@ I maintain a personal DevOps lab environment where I build and test infrastructu
 - Monitoring stacks using Prometheus & Grafana
 - Infrastructure automation and deployment practices
 
+## 🔥 Featured Projects
+
+- nginx-reverse-proxy-lab
+- prometheus-grafana-monitoring-stack
+- docker-laravel-deployment
+
 
 ## 📫 Connect with Me
 
