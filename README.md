@@ -18,13 +18,13 @@ DevOps & Infrastructure Engineer with 7+ years of experience managing Linux-base
 
 ## 🧪 DevOps Lab Environment
 
-I maintain a home lab to experiment with infrastructure and DevOps workflows including:
+I maintain a personal DevOps lab environment where I build and test infrastructure setups and deployment workflows, including:
 
-- Containerized applications
-- CI/CD pipelines
-- Reverse proxy & SSL
-- Monitoring stacks
-- Infrastructure automation
+- Containerized applications using Docker & Docker Compose
+- CI/CD pipelines with GitHub Actions and GitLab CI
+- Nginx reverse proxy configurations with SSL
+- Monitoring stacks using Prometheus & Grafana
+- Infrastructure automation and deployment practices
 
 
 ## 📫 Connect with Me
